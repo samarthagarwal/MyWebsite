@@ -1,0 +1,7 @@
+# ignore all JS files
+
+*.js
+
+# ignore the readme file
+
+readme.md
